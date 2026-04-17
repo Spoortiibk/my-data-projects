@@ -1,0 +1,6 @@
+Week 1 - GitHub Learning Notes
+
+- Created my first GitHub repository
+- Learned what a repository is
+- Learned what a commit is
+- Using GitHub from iPad
